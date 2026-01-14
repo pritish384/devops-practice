@@ -1,0 +1,20 @@
+2026-01-14 10:01:22 INFO Server started
+2026-01-14 10:01:25 INFO DB connected
+2026-01-14 10:02:01 CRITICAL DB timeout
+2026-01-14 10:02:05 CRITICAL Connection refused
+2026-01-14 10:03:10 INFO User login success
+2026-01-14 10:04:00 WARN High memory usage
+2026-01-14 10:05:22 CRITICAL Payment failed
+
+2026-01-14 10:05:22 CRITICAL Paymentheheheheehehe
+2026-01-14 10:06:10 ERROR Server crashed
+2026-01-14 21:36:59 ERROR Random failure occurred
+2026-01-14 21:37:01 ERROR Random failure occurred
+2026-01-14 21:37:03 ERROR Random failure occurred
+2026-01-14 21:37:05 ERROR Random failure occurred
+2026-01-14 21:37:07 ERROR Random failure occurred
+2026-01-14 21:37:09 ERROR Random failure occurred
+2026-01-14 21:37:11 ERROR Random failure occurred
+2026-01-14 21:37:13 ERROR Random failure occurred
+2026-01-14 21:37:15 ERROR Random failure occurred
+2026-01-14 21:37:17 ERROR Random failure occurred
